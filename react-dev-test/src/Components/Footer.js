@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Navbar, Nav } from "react-bootstrap";
 
-export default class ListItem extends Component {
+export default class Footer extends Component {
   render() {
     return (
       <Navbar bg="dark" variant="white" expand="lg" className="fixed-bottom">
